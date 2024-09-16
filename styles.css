@@ -1,7 +1,7 @@
-h1:hover{
-  background-color:red;
+h1 {
+  text-align: center; font-style: italic;
 }
 
-h2:hover{
-  background-color:red;
+h2:hover {
+  background-color: red;
 }
